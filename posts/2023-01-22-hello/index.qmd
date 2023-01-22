@@ -1,0 +1,14 @@
+---
+title: "Hello and Welcome to My Blog!"
+description: |
+  A bit about me and my goals for my blog.
+author:
+  - name: Drew Shives
+    url: https://djshives.github.io/
+date: 2023-01-22
+categories: [Personal, Research, Work]
+image: lanterns.jpeg
+draft: false
+---
+
+
