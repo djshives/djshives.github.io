@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/drewshives/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3898473492",
     "contents": "",
     "dirty": false,
     "created": 1674330895793.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,19",
+        "cursorPosition": "2,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1674334459,
+    "lastKnownWriteTime": 1674474076,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674334459722,
+    "last_content_update": 1674474076317,
     "read_only": false,
     "read_only_alternatives": []
 }
