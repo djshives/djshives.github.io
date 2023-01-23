@@ -26,11 +26,30 @@ I also proudly served on the steering committee for the [Korean American Artist 
 ```{r}
 #| eval: true
 #| echo: false
+#| column: page
 knitr::include_graphics("images/dog-pug.gif")
 ```
 
 ## research
 
+### PhD
 
+I am a PhD candidate at The Graduate Center, CUNY studying under [Dr. Matthew Crump](http://crumplab.com/). My work focuses on understanding human cognition, specifically memory, attention, and decision making, along computational terms.
+
+### Independent
+
+Beyond conducting research for school, I have general interests in AI/ML and statistics. Specifically:
+
+-   Transformers and attention-based models
+-   Bayesian statistics
+-   Recommender systems
 
 ## work
+
+### Data Science
+
+Along with pursuing a PhD, I am also a Senior Data Scientist at [Zenith Media](https://www.zenithmedia.com/). Previously, I was a Data Scientist at [Marina Maher Communications](https://hellommc.com/) and a Senior Analyst in the Marketing Analytics department of [Kepler Group](https://www.keplergrp.com/).
+
+### Previous experience
+
+Prior to my career in data science, I was a fine dining cook working in some of Manahattan and Brooklyn's finest kitchens. Some highlights include [ABC Kitchen](https://www.abckitchens.nyc/), [Alder](https://www.instagram.com/aldernyc/?hl=en), and [Gabriel Kreuther](https://www.gknyc.com/).
