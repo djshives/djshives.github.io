@@ -1,9 +1,17 @@
 ---
 title: "About"
+subtitle: "More about me and what I do"
 ---
 
-About this site
+### research
 
-```{r}
-1 + 1
-```
+
+
+### work
+
+
+
+### life
+
+
+
