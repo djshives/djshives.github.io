@@ -26,6 +26,8 @@ I also proudly served on the steering committee for the [Korean American Artist 
 ```{r}
 #| eval: true
 #| echo: false
+#| layout-ncol: 1
+#| layout-valign: center
 #| column: page
 knitr::include_graphics("images/dog-pug.gif")
 ```
