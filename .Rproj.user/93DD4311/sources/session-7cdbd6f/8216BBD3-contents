@@ -26,7 +26,6 @@ I also proudly served on the steering committee for the [Korean American Artist 
 ```{r}
 #| eval: true
 #| echo: false
-#| column: page
 #| fig-subcap: "Look at this little guy/gal!"
 knitr::include_graphics("images/dog-pug.gif")
 ```

@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/drewshives/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "1415646076",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1674478447959.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "1260:568",
-        "cursorPosition": "29,15",
+        "cursorPosition": "27,14",
         "scrollLine": "20"
     },
     "folds": "",
-    "lastKnownWriteTime": 1674478886,
+    "lastKnownWriteTime": 1674479002,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674478886628,
+    "last_content_update": 1674479002630,
     "read_only": false,
     "read_only_alternatives": []
 }
