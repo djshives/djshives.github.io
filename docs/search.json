@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "posts/2023-01-22-hello/index.html",
+    "href": "posts/2023-01-22-hello/index.html",
+    "title": "Hello and Welcome to My Blog!",
+    "section": "",
+    "text": "Hello to new and old followers! In case you haven’t checked out my About page yet, let me tell you a little bit about me.\nMy name is Drew and I am a PhD candidate at The Graduate Center, CUNY studying cognitive psychology in the Cognitive & Comparative Psychology program. I am also a Senior Data Scientist at Zenith Media trying to better understand and analyze the effects of advertising. In my free time, I am an avid photographer, music enthusiast, and general supporter of creative pursuits — I am fortunate to have studied classical piano under Dr. Min Kwon and worked as a cook in Michelin-starred restaurants throughout NYC. Most importantly, I am the loving partner of Andy (and hopeful future pug parent)."
+  },
+  {
+    "objectID": "posts/2023-01-22-hello/index.html#thanks-for-coming-and-stay-tuned",
+    "href": "posts/2023-01-22-hello/index.html#thanks-for-coming-and-stay-tuned",
+    "title": "Hello and Welcome to My Blog!",
+    "section": "Thanks for Coming and Stay Tuned!",
+    "text": "Thanks for Coming and Stay Tuned!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Drew Shives",
@@ -39,6 +53,6 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Assorted thoughts on research, work, and life.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello and Welcome to My Blog!\n\n\n\nPersonal\n\n\nResearch\n\n\nWork\n\n\n\nA bit about me and my goals for my blog.\n\n\n\nDrew Shives\n\n\nJan 22, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Assorted thoughts on research, work, and life.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello and Welcome to My Blog!\n\n\n\nPersonal\n\n\nResearch\n\n\nWork\n\n\n\nA bit about me and my goals for my blog.\n\n\n\nDrew Shives\n\n\nJan 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
