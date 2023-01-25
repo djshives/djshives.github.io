@@ -1,7 +1,9 @@
 [
   {
     "listing": "/gallery.html",
-    "items": []
+    "items": [
+      "/gallery/2022-12-07-nyc/index.html"
+    ]
   },
   {
     "listing": "/posts.html",

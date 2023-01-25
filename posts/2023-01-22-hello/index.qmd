@@ -15,7 +15,7 @@ draft: false
 
 Hello to new and old followers! In case you haven't checked out my [About](https://djshives.github.io/about.html) page yet, let me tell you a little bit about me.
 
-My name is Drew and I am a PhD candidate at The Graduate Center, CUNY studying cognitive psychology in the Cognitive & Comparative Psychology program. I am also a Senior Data Scientist at Zenith Media trying to better understand and analyze the effects of advertising. In my free time, I am an avid photographer, music enthusiast, and general supporter of creative pursuits — I am fortunate to have studied classical piano under Dr. Min Kwon and worked as a cook in Michelin-starred restaurants throughout NYC. Most importantly, I am the loving partner of Andy (and hopeful future pug parent).
+My name is Drew and I am a PhD candidate at The Graduate Center, CUNY studying cognitive psychology in the Cognitive & Comparative Psychology program. I am also a Senior Data Scientist at Zenith Media trying to better understand and analyze the effects of advertising. In my free time, I am an avid photographer, music enthusiast, and general supporter of creative pursuits --- I am fortunate to have studied classical piano under Dr. Min Kwon and worked as a cook in Michelin-starred restaurants throughout NYC. Most importantly, I am the loving partner of Andy (and hopeful future pug parent).
 
 ### why start blogging?
 
@@ -27,32 +27,32 @@ In most of my endeavors, I do a majority of my work behind the scenes. Rarely ha
 
 #### Learning Agenda
 
-I entered into my PhD program with the goal of becoming a researcher working at the intersections of artificial intelligence and cognition. About 1.5 years into my program, however, I realized that a PhD in cognitive psychology is not going to be enough — I have to also be approaching projects from the AI side as well. So I set about thinking through what AI domains I want to learn more about:
+I entered into my PhD program with the goal of becoming a researcher working at the intersections of artificial intelligence and cognition. About 1.5 years into my program, however, I realized that a PhD in cognitive psychology is not going to be enough --- I have to also be approaching projects from the AI side as well. So I set about thinking through what AI domains I want to learn more about:
 
-- Transformers and attention
-- Diffusion models
-- Recommender systems
-- Algorithmic financial trading
-- Bayesian statistics
+-   Transformers and attention
+-   Diffusion models
+-   Recommender systems
+-   Algorithmic financial trading
+-   Bayesian statistics
 
 And also which domains in cognition:
 
-- Models of memory and attention
-- Perceptions of time and its effect on memory
-- Bayesian applications to cognitive psychology
-- More generally, how to plan, organize, and execute a long-term research agenda
+-   Models of memory and attention
+-   Perceptions of time and its effect on memory
+-   Bayesian applications to cognitive psychology
+-   More generally, how to plan, organize, and execute a long-term research agenda
 
-In order to become acquainted with the above, particularly the AI-based domains, I plan on using four month "sprints" for each. The beginning period (one month to six weeks) will focus primarily on the conceptual — how does this work, what is the high level overview, and what are the technical aspects. The remaining stretch will be spent building a project/application/etc. focused on practically applying previously acquired knowledge. 
+In order to become acquainted with the above, particularly the AI-based domains, I plan on using four month "sprints" for each. The beginning period (one month to six weeks) will focus primarily on the conceptual --- how does this work, what is the high level overview, and what are the technical aspects. The remaining stretch will be spent building a project/application/etc. focused on practically applying previously acquired knowledge.
 
 ##### Updates and Posts
 
 But what does all that mean for a blog? Posts, posts, and more posts! I am aiming to make routine updates around:
 
-- Paper recaps on CogSci and AI topics (hoping to post once a week to every two weeks while rotating between the two domains)
-- Attempts to explain a method or topic conceptually (once a month at most)
-- Coding problem solutions (once every couple of weeks)
-- Project and research updates (both for my PhD and independent research)
-- Project conclusion posts featuring code and hopefully working applications/examples.
+-   Paper recaps on CogSci and AI topics (hoping to post once a week to every two weeks while rotating between the two domains)
+-   Attempts to explain a method or topic conceptually (once a month at most)
+-   Coding problem solutions (once every couple of weeks)
+-   Project and research updates (both for my PhD and independent research)
+-   Project conclusion posts featuring code and hopefully working applications/examples.
 
 As well as ad hoc posts when inspiration strikes (e.g., photo drops to the [Gallery](https://djshives.github.io/gallery.html)).
 
@@ -61,15 +61,3 @@ As well as ad hoc posts when inspiration strikes (e.g., photo drops to the [Gall
 I've toyed around with the idea of starting a video component to my blog, but am unsure if I want to commit to it now. If things go well with updating a blog regularly, I'll consider a vlog more thoroughly. Feel free to reach out [via email](mailto:djshives@gmail.com) if you have any strong feelings one way or another.
 
 ## Thanks for Coming and Stay Tuned!
-
-
-
-
-
-
-
-
-
-
-
-
