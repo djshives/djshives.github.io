@@ -23,12 +23,19 @@ I also proudly served on the steering committee for the [Korean American Artist 
 
 ### I love pugs
 
-::: {#gif-pug fig.pos="hp" justification="centering"}
-\centering
-![](images/dog-pug.gif)
+```{html}
+<div id="gif-pug">
+  <p><img src="images/dog-pug.gif" class="center"></p>
+  <p>PUG!</p>
+</div>
+```
 
-PUG!
-:::
+<!-- ::: {#gif-pug fig.pos="hp" justification="centering"} -->
+<!-- \centering -->
+<!-- ![](images/dog-pug.gif) -->
+
+<!-- PUG! -->
+<!-- ::: -->
 
 ## research
 
