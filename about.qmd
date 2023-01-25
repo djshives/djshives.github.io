@@ -23,7 +23,7 @@ I also proudly served on the steering committee for the [Korean American Artist 
 
 ### I love pugs
 
-::: {#gif-pug}
+::: {#pug-gif}
 ![](images/dog-pug.gif)
 
 PUG!
