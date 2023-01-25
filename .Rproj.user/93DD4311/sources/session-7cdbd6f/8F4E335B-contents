@@ -1,0 +1,11 @@
+---
+title: "Blog"
+
+listing: 
+  contents: posts
+  type: grid
+  sort: "date desc"
+  categories: true 
+---
+
+Assorted thoughts on research, work, and life.
