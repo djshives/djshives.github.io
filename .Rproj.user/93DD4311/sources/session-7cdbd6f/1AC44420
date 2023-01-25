@@ -1,12 +1,12 @@
 {
-    "id": "EF9485E7",
-    "path": "~/Documents/GitHub/drewshives/gallery/2022-12-07-nyc/index.qmd",
-    "project_path": "gallery/2022-12-07-nyc/index.qmd",
+    "id": "1AC44420",
+    "path": "~/Documents/GitHub/drewshives/posts/2023-01-22-hello/index.qmd",
+    "project_path": "posts/2023-01-22-hello/index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "407246320",
     "contents": "",
     "dirty": false,
-    "created": 1674678834318.0,
+    "created": 1674679333289.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "31,47",
-        "scrollLine": "12",
-        "rmdVisualModeLocation": "175:176"
+        "cursorPosition": "62,1",
+        "scrollLine": "49",
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1674679156,
+    "lastKnownWriteTime": 1674679360,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674679156845,
+    "last_content_update": 1674679360021,
     "read_only": false,
     "read_only_alternatives": []
 }
