@@ -24,9 +24,7 @@ I also proudly served on the steering committee for the [Korean American Artist 
 ### I love pugs
 
 ::: {#pug-gif}
-![](images/dog-pug.gif){fig-align="center"}
-
-PUG!{text-align="center"}
+![PUG!](images/dog-pug.gif){fig-align="center"}
 :::
 
 ## research
