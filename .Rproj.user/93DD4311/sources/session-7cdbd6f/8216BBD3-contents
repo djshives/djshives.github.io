@@ -25,13 +25,6 @@ I also proudly served on the steering committee for the [Korean American Artist 
 
 ![PUG!](images/dog-pug.gif)
 
-```{r}
-#| eval: true
-#| echo: false
-#| layout-valign: center
-knitr::include_graphics("images/dog-pug.gif")
-```
-
 ## research
 
 ### PhD
