@@ -1,0 +1,77 @@
+---
+title: "What I Want to Achieve in 2023"
+description: |
+  An assortment of baked (and half-baked) ideas.
+author:
+  - name: Drew Shives
+    url: https://djshives.github.io/
+date: 2023-02-07
+categories: [Personal, Research, Work]
+image: goals.jpg
+draft: false
+---
+
+## A recent conversation with myself,
+
+-   "Wait, 2023 started already?"
+-   Yep, it's already February.
+-   "Uh...I thought we wanted to get a jump on this year?"
+-   Fortunately, we already have!
+-   "That's great!...What do you mean?"
+
+## What do I mean?...Goals for 2023!
+
+I've always had a love/hate relationship with goal setting. I love to do it because it pours fuel on my ambitions. I hate it because I fear failure and get overwhelmed at the prospect of not being able to achieve what I want. In the interest of trying to overcome the latter while cultivating the former (showing my work!), I wanted to list out what my goals are for this year and update the post as I progress throughout 2023. 
+
+### School
+
+- Finish my first doc.
+  - Centered around experimental work on directed forgetting.
+  - Currently writing the introduction and literature review while also fielding a final experiment to analyze and report out on.
+- Submit 2 papers for review.
+  - First doc will be converted into a submittable paper.
+  - Second paper topic ideas: memory for time, memory for perceptual detail, directed forgetting of audio-based stimuli. 
+- Present at Psychonomics.
+  - Presented a poster in 2022.
+- Attend (and hopefully present) at another conference.
+- Submit an additional grant/fellowship proposal.
+  - Already submitted a proposal for the Doctoral Student Research Grant through CUNY.
+
+### Work
+
+- Write 2 white papers.
+  - Currently working on a methodology for determining minimum thresholds for KPI reporting using Bayesian power analysis techniques.
+  - Have two main ideas for an additional project: anomally detection using Bayesian online changepoint detection, investigate if subject perception of visual features of a text-to-image generated picture aligns with the keywords used to create it.
+- Completely 2 large scale end-to-end projects.
+  - See above bullet.
+
+### Personal Research
+
+- Build forex trading bot.
+- Build 2 models (transformer and stable diffusion).
+- Build a recommender system.
+- Collaborate on at least 1 open source project.
+- Invest time into the Cohere Community.
+
+### Photography
+
+- Finish my 2022 photo book.
+  - Almost done!
+- Invest in a brand new camera.
+  - Nikon Z8...please come out soon.
+- Take on at least 1 portraiture project.
+- Submit to 2 competitions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
