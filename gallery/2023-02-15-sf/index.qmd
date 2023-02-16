@@ -45,7 +45,7 @@ draft: false
 :::
 
 ::: {#4405}
-[![](assets/DSC_4405.jpg)](assets/DSC)4405.jpg)
+[![](assets/DSC_4405.jpg)](assets/DSC_4405.jpg)
 :::
 
 ::: {#4447}
