@@ -1,0 +1,82 @@
+---
+title: "02/15/2023"
+author:
+  - name: Drew Shives
+    url: https://djshives.github.io/
+categories: [SF, Portraits, Street]
+image: assets/DSC_4430.jpg
+draft: false
+---
+
+::: {#4430}
+[![](assets/DSC_4430.jpg)](assets/DSC_4430.jpg)
+:::
+
+::: {#4431}
+[![](assets/DSC_4431.jpg)](assets/DSC_4431.jpg)
+:::
+
+::: {#4393}
+[![](assets/DSC_4393.jpg)](assets/DSC_4393.jpg)
+:::
+
+::: {#4394}
+[![](assets/DSC_4394.jpg)](assets/DSC_4394.jpg)
+:::
+
+::: {#4410}
+[![](assets/DSC_4410.jpg)](assets/DSC_4410.jpg)
+:::
+
+::: {#4415}
+[![](assets/DSC_4415.jpg)](assets/DSC_4415.jpg)
+:::
+
+::: {#4402}
+[![](assets/DSC_4402.jpg)](assets/DSC_4402.jpg)
+:::
+
+::: {#4424}
+[![](assets/DSC_4424.jpg)](assets/DSC_4424.jpg)
+:::
+
+::: {#4425}
+[![](assets/DSC_4425.jpg)](assets/DSC_4425.jpg)
+:::
+
+::: {#4405}
+[![](assets/DSC_4405.jpg)](assets/DSC)4405.jpg)
+:::
+
+::: {#4447}
+[![](assets/DSC_4447.jpg)](assets/DSC_4447.jpg)
+:::
+
+::: {#4448}
+[![](assets/DSC_4448.jpg)](assets/DSC_4448.jpg)
+:::
+
+::: {#4443}
+[![](assets/DSC_4443.jpg)](assets/DSC_4443.jpg)
+:::
+
+::: {#4442}
+[![](assets/DSC_4442.jpg)](assets/DSC_4442.jpg)
+:::
+
+::: {#4416}
+[![](assets/DSC_4416.jpg)](assets/DSC_4416.jpg)
+:::
+
+::: {#4417}
+[![](assets/DSC_4417.jpg)](assets/DSC_4417.jpg)
+:::
+
+::: {#4419}
+[![](assets/DSC_4419.jpg)](assets/DSC_4419.jpg)
+:::
+
+::: {#4392}
+[![](assets/DSC_4392.jpg)](assets/DSC_4392.jpg)
+:::
+
