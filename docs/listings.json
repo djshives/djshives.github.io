@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/gallery.html",
+    "items": [
+      "/gallery/2022-12-07-nyc/index.html",
+      "/gallery/2023-02-15-sf/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023-02-07-goals-2023/index.html",
+      "/posts/2023-01-22-hello/index.html"
+    ]
+  }
+]
