@@ -2,7 +2,7 @@
 title: "Presentations"
 
 listing: 
-  contents: courses
+  contents: presentations
   type: grid
   sort: "date desc"
   categories: true 
