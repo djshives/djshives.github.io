@@ -22,5 +22,11 @@
   },
   "gallery/2023-02-15-sf/index.qmd": {
     "index.html": "0e53b860"
+  },
+  "presentations/2023-03-07-TED-talk-pres/index.qmd": {
+    "index.html": "fd60272e"
+  },
+  "presentations.qmd": {
+    "presentations.html": "3b183be8"
   }
 }
