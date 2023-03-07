@@ -1,0 +1,11 @@
+---
+title: "Courses"
+
+listing: 
+  contents: courses
+  type: grid
+  sort: "date desc"
+  categories: true 
+---
+
+Coursework!
