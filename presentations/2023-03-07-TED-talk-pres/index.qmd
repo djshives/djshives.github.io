@@ -12,5 +12,5 @@ draft: false
 ---
 
 ```{=html}
-<iframe src="https://djshives.github.io/teaching_psych_ted/" title="TED Talk Presentation"></iframe>
+<iframe width="1000" height="750" src="https://djshives.github.io/teaching_psych_ted/" title="TED Talk Presentation"></iframe>
 ```
