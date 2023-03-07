@@ -11,4 +11,6 @@ image: computer.jpeg
 draft: false
 ---
 
-{{< SlideInclusion "https://djshives.github.io/teaching_psych_ted/" >}}
+```{=html}
+<iframe src="https://djshives.github.io/teaching_psych_ted/" title="TED Talk Presentation"></iframe>
+```
