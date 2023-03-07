@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "Presentations"
 
 listing: 
   contents: courses
@@ -8,4 +8,4 @@ listing:
   categories: true 
 ---
 
-Coursework!
+Presentations
