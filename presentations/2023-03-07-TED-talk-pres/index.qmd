@@ -1,0 +1,14 @@
+---
+title: "TED Talk Presentation"
+description: |
+  3 Ways to Make Better Decisions By Thinking Like a Computer
+author:
+  - name: Drew Shives
+    url: https://djshives.github.io/
+date: 2023-03-07
+categories: [Coursework]
+image: computer.jpeg
+draft: false
+---
+
+{{< SlideInclusion "https://djshives.github.io/teaching_psych_ted/" >}}
