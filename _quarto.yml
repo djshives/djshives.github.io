@@ -11,7 +11,8 @@ website:
         text: Home
       - about.qmd
       - posts.qmd
-      - gallery.qmd
+      - href: "https://www.kimjunghaphoto.me"
+        text: KJH Photo
       - presentations.qmd
 
 format:

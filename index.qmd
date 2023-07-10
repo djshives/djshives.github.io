@@ -18,31 +18,79 @@ about:
       text: Email
       href: mailto:djshives@gmail.com
 ---
+
 ### hi!
 
-<p class="topbr">I'm Drew and I am a PhD candidate at The Graduate Center, CUNY studying cognitive science in their [Cognitive & Comparative Psychology training area](https://ccp-cuny.github.io/index.html). I am also a Senior Data Scientist at [Zenith Media](https://www.zenithmedia.com/). In my free time I am an avid photographer (check out my [Gallery](https://djshives.github.io/gallery.html) page!) and home cook.</p>
+<p class="topbr">
 
+I'm Drew and I am a PhD candidate at The Graduate Center, CUNY studying cognitive science in their [Cognitive & Comparative Psychology training area](https://ccp-cuny.github.io/index.html). I am also a Senior Data Scientist at [Zenith Media](https://www.zenithmedia.com/). In my free time I am an avid photographer (check out my [Gallery](https://djshives.github.io/gallery.html) page!) and home cook.
+
+</p>
 
 ### education
 
-<div class="topbr">
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **PhD Candidate in Psychology, 2026**</p>  
-<p class="custom-subtitle2" style="font-size:15px">*The Graduate Center, CUNY*</p>
+::: topbr
+<p class="custom-subtitle">
 
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BA in Economics, 2011**</p>  
-<p class="custom-subtitle2" style="font-size:15px">*Gettysburg College*</p>
-</div>
+`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **PhD Candidate in Psychology, 2026**
+
+</p>
+
+<p class="custom-subtitle2" style="font-size:15px">
+
+*The Graduate Center, CUNY*
+
+</p>
+
+<p class="custom-subtitle">
+
+`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BA in Economics, 2011**
+
+</p>
+
+<p class="custom-subtitle2" style="font-size:15px">
+
+*Gettysburg College*
+
+</p>
+:::
 
 ### experience
 
-<div class="topbr">
-<p class="custom-subtitle">`r fontawesome::fa("chart-line", fill = "#98A08D", a11y = "sem")` **Senior Data Scientist, April 2022 - present**</p>   
-<p class="custom-subtitle2" style="font-size:15px">*Zenith Media*</p>  
+::: topbr
+<p class="custom-subtitle">
 
-<p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#98A08D", a11y = "sem")` **Data Scientist, March 2020 - March 2022**</p>    
-<p class="custom-subtitle2" style="font-size:15px">*Marina Maher Communications*</p>
+`r fontawesome::fa("chart-line", fill = "#98A08D", a11y = "sem")` **Senior Data Scientist, April 2022 - present**
 
-<p class="custom-subtitle">`r fontawesome::fa("chart-pie", fill = "#98A08D", a11y = "sem")` **Senior Analyst, Marketing Analytics, January 2018 - March 2020**</p>    
-<p class="custom-subtitle2" style="font-size:15px">*Kepler Group*</p>
+</p>
 
-</div>
+<p class="custom-subtitle2" style="font-size:15px">
+
+*Zenith Media*
+
+</p>
+
+<p class="custom-subtitle">
+
+`r fontawesome::fa("chart-bar", fill = "#98A08D", a11y = "sem")` **Data Scientist, March 2020 - March 2022**
+
+</p>
+
+<p class="custom-subtitle2" style="font-size:15px">
+
+*Marina Maher Communications*
+
+</p>
+
+<p class="custom-subtitle">
+
+`r fontawesome::fa("chart-pie", fill = "#98A08D", a11y = "sem")` **Senior Analyst, Marketing Analytics, January 2018 - March 2020**
+
+</p>
+
+<p class="custom-subtitle2" style="font-size:15px">
+
+*Kepler Group*
+
+</p>
+:::
